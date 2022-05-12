@@ -12,3 +12,8 @@ source_metadata:
       parent: Catalogues
 created_at: '2022-02-28T23:24:07.200087'
 last_modified_at: '2022-02-28T23:24:07.200090'
+statistics:
+  total_words: 7302
+  total_non_words: 626
+quality:
+  non_words_ratio: 0.09
